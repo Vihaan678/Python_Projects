@@ -60,6 +60,7 @@ PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Gend
 59,1,2,"West, Miss. Constance Mirium",5.0,1,2,C.A. 34651,27.75,,S,female
 60,0,3,"Goodwin, Master. William Frederick",11.0,5,2,CA 2144,46.9,,S,male
 61,0,3,"Sirayanian, Mr. Orsen",22.0,0,0,2669,7.2292,,C,male
+
 62,1,1,"Icard, Miss. Amelie",38.0,0,0,113572,80.0,B28,S,female
 63,0,1,"Harris, Mr. Henry Birkhardt",45.0,1,0,36973,83.475,C83,S,male
 64,0,3,"Skoog, Master. Harald",4.0,3,2,347088,27.9,,S,male
